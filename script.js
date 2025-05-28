@@ -2,7 +2,7 @@ function loco(){
     gsap.registerPlugin(ScrollTrigger);
 
 // Using Locomotive Scroll from Locomotive https://github.com/locomotivemtl/locomotive-scroll
-// hi
+// hi this is now commit
 const locoScroll = new LocomotiveScroll({
   el: document.querySelector("#main"),
   smooth: true
